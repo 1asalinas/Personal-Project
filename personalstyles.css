@@ -1,0 +1,307 @@
+header{
+    width: 100%;
+    height: 300px;
+    background-image: url("https://i.pinimg.com/474x/95/3a/3a/953a3a44d0e7c18f66a2481e2dc9707b--hd-video-video-game.jpg");
+    margin: auto;
+    margin-top: 0;
+}
+header > div > h1{
+    text-align: center;
+    color: aqua;
+    margin-top: 0px;
+}
+header > div{
+    height: 50px;
+    width: 50%;
+    margin: auto;
+    margin-top: 0px;
+}
+nav{
+    color: aqua;
+    display: flex;
+    margin: auto;
+    margin-top: 0px;
+    padding: 1px;
+    text-align: center;
+}
+nav > a{
+    flex: 1;
+    color: red;
+}
+a:hover{ 
+    color: indigo;
+}
+div > form{
+    width: 50%;
+    margin-left: 33%;
+    margin-top: 175px;
+}
+input{
+    width:230px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.grey{
+    background-color: gray;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.black{
+    background-color: black;
+
+}
+.trans{
+    background-color: transparent 
+}
+.small{
+    height:100px;
+    width:500px;
+}
+.big{
+    width:500px;
+    height:300px;
+}
+.big2{
+    height:100px;
+    width:100%;
+}
+.big3{
+    width: 400px;
+    padding: 8px;
+    border: 8px;
+    border-radius: 4px;
+    background-color: white;
+    float: center;
+    margin: 10px auto;
+}
+.small2{
+    height:200px;
+
+}
+.half_l{
+    float: left;
+    width: 50%;
+}
+.half_r{
+    float: right;
+    width: 50%;
+}
+.third{
+    float: left;
+    width: 33.33%;
+}
+.quarter{
+    float: left;
+    width:25%;
+}
+.three_quarters{
+    float: right;
+    width:75%;
+}
+.two_thirds{
+    float: right;
+    width: 66.67%;
+}
+
+
+
+
+
+.imgsize{
+    width: 400px;
+    height: auto;
+}
+.leftad{
+    float: left;
+    height: auto;
+    width: 200px;
+    padding: 5px;
+    background-color: black;
+    border-radius: 6px;
+}
+main{
+    height: auto;
+    width: 600px;
+    padding: 5px;
+    background-color: aliceblue;
+    border-radius: 6px;
+    margin: auto;
+}
+.rightad{
+    float: right;
+    height: auto;
+    width: 200px;
+    padding: 5px;
+    background-color: black;  
+    border-radius: 6px;  
+}
+.small4{
+    height:100px;
+    width:150px;
+    background-color: white;
+    border: 8px;
+    margin: 10px auto;
+}
