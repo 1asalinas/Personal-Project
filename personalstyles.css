@@ -39,13 +39,9 @@ div > form{
 input{
     width:230px;
 }
-
-
-
-
-
-
-
+section{
+    display: flex;
+}
 
 
 
@@ -234,7 +230,7 @@ input{
     border: 8px;
     border-radius: 4px;
     background-color: white;
-    float: center;
+    float: left;
     margin: 10px auto;
 }
 .small2{
@@ -279,8 +275,9 @@ input{
     height: auto;
     width: 200px;
     padding: 5px;
-    background-color: black;
+    background-color: grey;
     border-radius: 6px;
+    flex: 2;
 }
 main{
     height: auto;
@@ -289,14 +286,17 @@ main{
     background-color: aliceblue;
     border-radius: 6px;
     margin: auto;
+    float: left;
+    flex: 7;
 }
 .rightad{
-    float: right;
+    float: left;
     height: auto;
     width: 200px;
     padding: 5px;
-    background-color: black;  
+    background-color: grey;  
     border-radius: 6px;  
+    flex: 1;
 }
 .small4{
     height:100px;
